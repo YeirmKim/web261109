@@ -20,6 +20,8 @@ console.log("평균:", average(movies));
 //yearsSince(dateStr)
 // 포스터 경로, 크기 ⇒ TMDB 이미지 주소(문자열)
 //posterUrl(path, size)
+
+
 function best(list) {
     let top = list[0]
     for (m of list)

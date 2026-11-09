@@ -22,3 +22,4 @@ const movies = [
         rating: 7.8, poster: "/dNCp17yK9L0pANvKTb6tWECQj4Q.jpg"
     },
 ];
+
